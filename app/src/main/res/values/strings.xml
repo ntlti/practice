@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name" translatable="false">ExpenseTracker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="open">открыть</string>
+    <string name="close">закрыть</string>
+    <string name="nav_drawer_header">MyExpenseTracker</string>
+    <string name="get_started">Начать</string>
+    <string name="empty_transactions_text">введите первую транзакцию, нажав на кнопку +</string>
+    <string name="btn_add_transaction_text">ДОБАВИТЬ ТРАНЗАКЦИЮ</string>
+    <string name="select_currency">Выберите новую валюту</string>
+    <string name="usd">$ USD</string>
+    <string name="eur">€ EUR</string>
+    <string name="gbp">£ GBP</string>
+    <string name="jpy">¥ JPY</string>
+    <string name="add_new_transaction">добавить новую транзакцию</string>
+    <string name="btn_save_transaction_text">СОХРАНИТЬ ТРАНЗАКЦИЮ</string>
+    <string name="total_expenses_analysis">Анализ общих расходов</string>
+    <string name="total_income_analysis">Анализ общего дохода</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="spending_limit">Лимит расходов</string>
+    <string name="enter_amount">Введите сумму...</string>
+    <string name="title">Название</string>
+    <string name="transaction_title">Название транзакции</string>
+    <string name="type">Тип</string>
+    <string name="transaction_type">Тип транзакции</string>
+    <string name="category">Категория</string>
+    <string name="transaction_category">Категория транзакции</string>
+    <string name="amount">Сумма</string>
+    <string name="transaction_amount">Сумма транзакции</string>
+    <string name="notes">Заметки</string>
+    <string name="transaction_notes">Заметки транзакции</string>
+    <string name="date">Дата</string>
+    <string name="transaction_date">Дата транзакции</string>
+    <string name="edit">РЕДАКТИРОВАТЬ</string>
+    <string name="total_expense">РАСХОДЫ</string>
+    <string name="expenses_by_category">Расходы по категориям</string>
+    <string name="income_by_category">Доход по категориям</string>
+    <string name="total_income">ДОХОД</string>
+    <string name="spending_progress">Прогресс расходов</string>
+    <string name="limit_not_set">лимит не установлен</string>
+    <string name="warning">предупреждение</string>
+    <string name="spending_warning">Внимание! Вы почти достигли лимита расходов!</string>
+    <string name="total_balance">БАЛАНС</string>
+    <string name="reports">Отчеты</string>
+    <string name="settings">Настройки</string>
+    <string name="export_data">Экспорт данных</string>
+    <string name="transaction_saved">Транзакция успешно сохранена</string>
+    <string name="missing_field">Пожалуйста, заполните поле</string>
+    <string name="required_field">обязательное поле</string>
+    <string name="invalid_date">Пожалуйста, введите правильную дату</string>
+    <string name="missing_transaction_type">Пожалуйста, выберите тип транзакции</string>
+    <string name="missing_category">Пожалуйста, выберите категорию</string>
+    <string name="date_format">dd/MM/yyyy</string>
+    <string name="transaction_deleted">Транзакция успешно удалена</string>
+    <string name="undo">Отменить</string>
+    <string name="income">Доход</string>
+    <string name="expenses">Расходы</string>
+    <string name="change_saved">Изменения успешно сохранены</string>
+    <string name="invalid_spending_limit">Пожалуйста, введите лимит расходов</string>
+    <string name="dashboard">Панель управления</string>
+    <string name="add_transaction">Добавить транзакцию</string>
+    <string name="transaction_details">Детали транзакции</string>
+    <string name="edit_transaction">Редактировать транзакцию</string>
+
+    <string name="bills">Счета</string>
+    <string name="food">Еда</string>
+    <string name="education">Образование</string>
+    <string name="entertainment">Развлечения</string>
+    <string name="housing">Жилье</string>
+    <string name="health">Здоровье</string>
+    <string name="travel">Путешествия</string>
+    <string name="transportation">Транспорт</string>
+    <string name="shopping">Покупки</string>
+    <string name="other">Другое</string>
+    <string name="salary">Зарплата</string>
+    <string name="investments">Инвестиции</string>
+    <string name="save">сохранить</string>
+    <string name="all_transactions">все транзакции</string>
+    <string name="ten_days">10 дней</string>
+    <string name="thirty_days">30 дней</string>
+    <string name="sixty_days">60 дней</string>
+    <string name="ninety_days">90 дней</string>
+    <string name="six_months">6 месяцев</string>
+    <string name="receipt_image">Изображение чека</string>
+    <string name="filter">Фильтр</string>
+
+    <string name="export_csv">Экспортировать в CSV</string>
+    <string name="export_excel">Экспортировать в Excel</string>
+    <string name="export_success">Данные успешно экспортированы в %s</string>
+    <string name="export_error">Ошибка при экспорте: %s</string>
+    <string name="choose_format">Выберите формат экспорта</string>
+    <string-array name="periods">
+        <item>all transactions</item>
+        <item>this month</item>
+        <item>last month </item>
+        <item>last three months</item>
+        <item>last six months</item>
+        <item>Last Year</item>
+    </string-array>
+</resources>
